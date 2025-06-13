@@ -1,3 +1,4 @@
 .obsidian/workspace*
 .obsidian/appearance.json
 .trash/
+*.DS_Store
