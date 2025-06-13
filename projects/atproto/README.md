@@ -1,0 +1,1 @@
+This is the primary notes directory for all projects I work on related to AT Proto.
